@@ -97,6 +97,8 @@
 
 ###
 
-<p align="left">Sou formado como Técnico em Eletrônica pelo SENAI e atualmente curso o 8º período de Engenharia da Computação na UTFPR.<br><br>Tenho direcionado meus estudos para a área de Análise de Dados e Ciência de Dados, com foco no uso de Python, bibliotecas como Pandas, NumPy, Scikit-learn e ferramentas de visualização como Matplotlib e Seaborn. Também venho explorando conceitos de Machine Learning, regressão e modelagem preditiva, aplicando esses conhecimentos em projetos acadêmicos, como meu Trabalho de Conclusão de Curso, que envolve a precificação de jogadores de futebol com base no desempenho.</p>
+<p align="left">I have a technical degree in Electronics from SENAI and I am currently in the 8th semester of Computer Engineering at UTFPR.
+
+I have focused my studies on the areas of Data Analysis and Data Science, with an emphasis on using Python and libraries such as Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib and Seaborn. I have also been exploring concepts of Machine Learning, regression, and predictive modeling, applying this knowledge in academic projects, including my final course project, which involves pricing football players based on their performance..</p>
 
 ###
